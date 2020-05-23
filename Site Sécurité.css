@@ -1,0 +1,116 @@
+
+p:first-letter{
+	font-size:150%;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+li a{
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#logo{
+	width:13%;
+	height:15%;
+}
+
+#Menu{
+	position:fixed;
+	left:5px;
+	top:30%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 17%;
+  height: 70%;
+  background-color: #aaaaaa;
+  font-size:20;
+  font-family:"Courier New";
+  line-height:2.25;
+  border-radius:0 20px 20px 0;
+}
+
+#Header{
+	margin:5px;
+	border: 5px solid black;
+	border-radius:20px 20px ;
+	text-align:center;
+	padding:15px;
+	width:auto;
+	height:20%;
+	
+}
+
+
+#Content{
+	
+	position:relative;
+	right:-17.5%;
+	width:80%;
+	border: 1px solid black;
+	font-family:Arial;
+ font-size: 18;
+ padding:5px;
+}
+
+#RightBox{
+	position:relative;
+	right:-40%;
+	width:40%;
+	padding:5px;
+	border: 1px solid red;
+}
+
+#LeftBox{
+	position:relative;
+	right:0%;
+	width:40%;
+	padding:5px;
+	border: 1px solid green;
+}
+
+#footer{
+	position:relative;
+	bottom:-10%;
+	right:-20%;
+	text-align:right;
+width:80%;
+height:10%;
+}
+
+
+h1 {
+	font-size: 64px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Luminari, sans serif;
+}
+
+body {
+	font-size: 18px;
+	text-align: left;
+	color: #FFFFFF;
+	background-image: url(Images/dark_geometric.png);
+	font-family: Plantagenet Cherokee, sans serif;
+	margin-left: 80px;
+}
+
+h2 {
+	font-size: 42px;
+	text-align: left;
+	color: #FFFFFF;
+	font-family: Luminari, sans serif;
+}
